@@ -1,0 +1,2 @@
+# cdntf
+CDN terraform tests
